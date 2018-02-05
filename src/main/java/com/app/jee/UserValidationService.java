@@ -1,4 +1,4 @@
-package web_applications;
+package com.app.jee;
 
 public class UserValidationService {
 
